@@ -1,4 +1,30 @@
-# My Poems
+# My Cooking
+
+## 2021-12-24
+
+```
+羊蝎子汤
+```
+
+![](images\2021\20211224_LambSoup_01.jpg)
+
+![](images\2021\20211224_LambSoup_02.jpg)
+
+![](images\2021\20211224_LambSoup_03.jpg)
+
+## 2021-12-17
+
+```
+羊排汤
+```
+
+![](images\2021\20211217_LambSoup_01.jpg)
+
+![](images\2021\20211217_LambSoup_02.jpg)
+
+![](images\2021\20211217_LambSoup_03.jpg)
+
+![](images\2021\20211217_LambSoup_04.jpg)
 
 ## 2021-12-16
 
