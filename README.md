@@ -1,5 +1,15 @@
 # My Cooking
 
+## 2022-01-16
+
+```
+腊肉菜花
+```
+
+![](images\2022\20220116_MeatCauliflower_01.jpg)
+
+![](images\2022\20220116_MeatCauliflower_02.jpg)
+
 ## 2021-12-24
 
 ```
