@@ -1,5 +1,37 @@
 # My Cooking
 
+
+
+## 2022-02-07
+
+
+```
+SSS - Shrimp Steak Soup
+```
+
+
+![](images\2022\20220207_SSS_01.jpg)
+
+![](images\2022\20220207_SSS_02.jpg)
+
+![](images\2022\20220207_SSS_03.jpg)
+
+
+## 2022-02-06
+
+
+```
+年年高升高寿高兴
+```
+
+![](images\2022\20220206_ChineseNewYearCake_01.jpg)
+
+![](images\2022\20220206_ChineseNewYearCake_02.jpg)
+
+
+年糕沾上蛋液 
+小火慢煎
+
 ## 2022-02-04
 
 
