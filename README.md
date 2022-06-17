@@ -1,14 +1,22 @@
 # My Cooking
 
+## 2022-06-16
 
+```bash
+红烧肉 noodle
+```
+
+![](images\2022\20220616_PorkNoodle_01.png)
+
+![](images\2022\20220616_PorkNoodle_02.png)
+
+![](images\2022\20220616_PorkNoodle_03.png)
 
 ## 2022-02-07
 
-
-```
+```bash
 SSS - Shrimp Steak Soup
 ```
-
 
 ![](images\2022\20220207_SSS_01.jpg)
 
@@ -16,11 +24,9 @@ SSS - Shrimp Steak Soup
 
 ![](images\2022\20220207_SSS_03.jpg)
 
-
 ## 2022-02-06
 
-
-```
+```bash
 年年高升高寿高兴
 ```
 
@@ -28,26 +34,22 @@ SSS - Shrimp Steak Soup
 
 ![](images\2022\20220206_ChineseNewYearCake_02.jpg)
 
-
-年糕沾上蛋液 
+年糕沾上蛋液
 小火慢煎
 
 ## 2022-02-04
 
-
-```
+```bash
 椒盐虾
 ```
-
 
 ![](images\2022\20220204_shrimp_01.png)
 
 ![](images\2022\20220204_shrimp_02.png)
 
+剪刀剪去虾脚虾须
 
-剪刀剪去虾脚虾须 
-
-牙线挑虾线 
+牙线挑虾线
 
 菜刀划开后背
 
@@ -67,11 +69,9 @@ SSS - Shrimp Steak Soup
 
 即可出锅
 
-
-
 ## 2022-01-16
 
-```
+```bash
 腊肉菜花
 ```
 
@@ -81,7 +81,7 @@ SSS - Shrimp Steak Soup
 
 ## 2021-12-24
 
-```
+```bash
 羊蝎子汤
 ```
 
@@ -93,7 +93,7 @@ SSS - Shrimp Steak Soup
 
 ## 2021-12-17
 
-```
+```bash
 羊排汤
 ```
 
@@ -107,13 +107,13 @@ SSS - Shrimp Steak Soup
 
 ## 2021-12-16
 
-```
+```bash
 荷包蛋
 ```
 
 ![](images\2021\20211216_egg_01.jpg)
 
-```
+```bash
 红烧肉
 ```
 
